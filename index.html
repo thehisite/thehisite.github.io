@@ -12,4 +12,5 @@
 </html>
 <!-- just to clarify, this is supposed to be able to run on almost anything 
 arbitrary devices tested functional: 
-New Nintendo 2DS XL  -->
+New Nintendo 2DS XL
+Nintendo Wii U -->
