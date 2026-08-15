@@ -14,4 +14,5 @@
 arbitrary devices tested functional: 
 New Nintendo 2DS XL
 Nintendo Wii U
-Samsung Smart TV-->
+Samsung Smart TV
+PlayStation 4-->
